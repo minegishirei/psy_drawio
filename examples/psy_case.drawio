@@ -85,7 +85,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="SdWDtHSQ3PRxiJJKlAN3" name="3/27">
-        <mxGraphModel dx="1238" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="902" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -111,11 +111,11 @@
         </mxGraphModel>
     </diagram>
     <diagram id="T59RPXPjRiN5-wR8p1Ta" name="罠を置く">
-        <mxGraphModel dx="1194" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="902" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7hIS9hSXeMiG4SoWA7Pw-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;飛車を取れる！&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;と思わせて、&lt;/div&gt;&lt;div&gt;角銀金と交換させる手口。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="7hIS9hSXeMiG4SoWA7Pw-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;飛車を取れる！&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;と思わせて、&lt;/div&gt;&lt;div&gt;角銀金と交換させる手口。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="50" y="70" width="310" height="290" as="geometry"/>
                 </mxCell>
             </root>

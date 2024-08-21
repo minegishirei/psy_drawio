@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ1" id="b3ed3xPqWTrQo_jcIVE4">
+        <mxGraphModel dx="902" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-1" value="アンカリング(数字)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="40.5" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-2" value="釘を刺す" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-1" vertex="1">
+                    <mxGeometry x="10" y="207" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PVm0V9DkdxH5yci86PIa-1" source="PVm0V9DkdxH5yci86PIa-4" target="PVm0V9DkdxH5yci86PIa-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-4" value="初めに出した見積もりが誤りでもそれを基準に見積もること&lt;br&gt;&lt;br&gt;住居の買い手が最初に到着した住居の価格を基準に考えてしまうこと" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-1" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-5" value="デフォルト戦略" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-6" value="デフォルト変更" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-5" vertex="1">
+                    <mxGeometry x="10" y="207" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PVm0V9DkdxH5yci86PIa-5" source="PVm0V9DkdxH5yci86PIa-8" target="PVm0V9DkdxH5yci86PIa-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-8" value="Google社内のカフェテリアで、ちょうど目線の高さにある商品を&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;炭酸飲料から水に変えたところ、水を選ぶ方が47%も増加した&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Kuang 2012" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-5" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-9" value="注意バイアス(ネットワーク)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="40" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-10" value="マジカルバナナ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-9" vertex="1">
+                    <mxGeometry x="10" y="207" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PVm0V9DkdxH5yci86PIa-9" source="PVm0V9DkdxH5yci86PIa-12" target="PVm0V9DkdxH5yci86PIa-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-12" value="内面の状態によって周囲の注意の仕方が変わってしまうこと&lt;br&gt;&lt;br&gt;薬物依存の患者は望む望まないにかかわらず、薬物に関連する情報を選択する" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-9" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-21" value="行動の一貫性" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="340" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PVm0V9DkdxH5yci86PIa-21" source="PVm0V9DkdxH5yci86PIa-23" target="PVm0V9DkdxH5yci86PIa-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-23" value="質問をしてしまった" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#FCAD90;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-21" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-24" value="自分の意図に沿わない行動をした後、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;その行動に合う認識にすり替える" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-21" vertex="1">
+                    <mxGeometry x="10" y="210" width="150" height="64.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-25" value="ラベリング" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="340" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-26" value="マジカルバナナ" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-25" vertex="1">
+                    <mxGeometry x="10" y="207" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PVm0V9DkdxH5yci86PIa-25" source="PVm0V9DkdxH5yci86PIa-28" target="PVm0V9DkdxH5yci86PIa-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="PVm0V9DkdxH5yci86PIa-28" value="行動の一貫性の原理を&lt;div&gt;応用した技術の一つ。&lt;/div&gt;&lt;div&gt;相手の認識するレッテルを利用し、その通りに動かす&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="PVm0V9DkdxH5yci86PIa-25" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

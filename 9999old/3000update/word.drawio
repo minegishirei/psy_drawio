@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="CtMLkMXJt5gVe9pk1gDp" name="ページ1">
+        <mxGraphModel dx="902" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="責任分散" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="170" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="行動の一貫性の誘発&lt;br&gt;責任を発生させる" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="2" vertex="1">
+                    <mxGeometry x="10" y="207" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="5" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="他の人に同意をとりに行く&lt;br&gt;「〜〜だと思います。&lt;br&gt;XXさんどう思います？」" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" parent="2" vertex="1">
+                    <mxGeometry x="10" y="32" width="150" height="148" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="質問の順番" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="340.5" width="370" height="279.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="現状維持" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6">
+                    <mxGeometry x="210" y="213" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6" source="9" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="無作為に選んだ人に&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;１、「今幸せか？」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;２、「デートの頻度」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;二つの数字に相関はなかった。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6">
+                    <mxGeometry x="210" y="31.5" width="150" height="149.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="言語" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6">
+                    <mxGeometry x="160" y="228" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="答えるのに苦労する質問は後に回すことで&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;答えをコントロール" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#B266FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6">
+                    <mxGeometry x="10" y="213" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6" source="13" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="無作為に選んだ人に&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;１、「デートの頻度」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;２，「今幸せか？」を問いかける&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;デートの頻度に比例して幸せ度合が増加した" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#CC99FF;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="6">
+                    <mxGeometry x="10" y="33" width="150" height="148" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
